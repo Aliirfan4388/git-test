@@ -1,0 +1,2 @@
+my name is ali 
+and this is me trying out git 
